@@ -35,7 +35,7 @@ Neste projeto foram abordados tópicos essenciais sobre roteamento e navegação
 
 ## 🔗 Repositório
 
-📦 [GitHub - PROJETO-Navegação-com-Expo-Router](https://github.com/RElSLIMA/PROJETO-Navegacao-com-Expo-Router.git)
+📦 [GitHub - PROJETO-Navegação-com-Expo-Router](https://github.com/RElSLIMA/PROJETO-Estudo-Sobre-Expo-Router.git)
 
 ---
 
